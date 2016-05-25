@@ -1,0 +1,1 @@
+curl http://localhost:8000/u2fServer/sign/?username="xlx"
